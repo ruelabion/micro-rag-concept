@@ -35,6 +35,7 @@ flowchart LR
 ## Documentation
 
 - [Architecture and design decisions](docs/ARCHITECTURE.md): stages, boundaries, and why each decision was made
+- [How it works without a server, database or LLM](docs/HOW-IT-WORKS.md): ingestion, retrieval and answers in the browser demo
 - [Walkthrough](docs/WALKTHROUGH.md): how the pattern works, step by step, with the rules to implement
 - [What this does and doesn't prove](docs/LIMITATIONS.md): honest limits and what production use would add
 
