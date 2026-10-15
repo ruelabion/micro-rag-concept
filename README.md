@@ -52,7 +52,7 @@ The implementation has been exercised against a real pgvector database. The live
 
 ## Requesting the code
 
-The source is kept private for now. If you would like to see the code behind the demo, request it through the contact form at **[ruelabion.com/#assessment](https://ruelabion.com/#assessment)**. Mention "Micro-RAG code" and say briefly who you are and what you want to use it for. Replies come from [Ruel Abion](https://ruelabion.com) directly.
+The source is kept private for now. If you would like to see the code behind the demo, request it through the contact form at **[ruelabion.com/#request-code](https://ruelabion.com/#request-code)**, which opens the form with "Request the Micro-RAG code" already selected. Say briefly who you are and what you want to use it for. Replies come from [Ruel Abion](https://ruelabion.com) directly.
 
 If you are weighing a retrieval or grounded-AI design for your own organization, the same form is the way to ask for an architecture assessment.
 
